@@ -1,0 +1,4 @@
+# Packages needed
+requests
+openai
+dotenv
