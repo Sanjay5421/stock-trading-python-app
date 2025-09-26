@@ -1,1 +1,1 @@
-# Demo stock trading python app just for practice yolo yolo
+# Demo stock trading python app just for practice
